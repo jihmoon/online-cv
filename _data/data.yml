@@ -60,6 +60,9 @@ education:
       university: Seoul National University
       time: 2019
       details: |
+      Test line1
+      
+      Test line2
         - Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
         - Advisor: Prof. Sun Kim
     - degree: ME in Information Engineering
@@ -75,7 +78,7 @@ education:
 experiences:
     - role: Postdoctoral Fellow
       time: 2019 - Present
-      company: Department of Biological Sciences, The State University of New York at Buffalo
+      company: Department of Biological Sciences, the State University of New York at Buffalo
       details: |
           - PI: Soo-Kyung Lee and Jae Lee
           - Bullet point
