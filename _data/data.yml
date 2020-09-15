@@ -60,6 +60,9 @@ education:
       university: Seoul National University
       time: 2019
       details: |
+      ad
+      |
+      as
         - Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
         - Advisor: Prof. Sun Kim
     - degree: ME in Information Engineering
@@ -73,20 +76,11 @@ education:
       time: 2009
      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Postdoctoral Fellow
+      time: 2019 - Present
+      company: Department of Biological Sciences, The State University of New York at Buffalo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
+          - PI: Soo-Kyung Lee and Jae Lee
           - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
