@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False #True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ji Hwan Moon
@@ -60,26 +60,20 @@ education:
       university: Seoul National University
       time: 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
+        Advisor: Prof. Sun Kim
           - Bullet point
           - Bullet point
     - degree: ME in Information Engineering
       university: Inha University
       time: 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Thesis Title: A Hybrid Enzyme Function Prediction System Using Sequence Similarity and Feature-based Classification
+        Advisor: Prof. Yoo-Sung Kim
           - Bullet point
           - Bullet point
     - degree: BE in Information and Communication Engineering
-      University: Inha University
+      university: Inha University
       time: 2009
      
 experiences:
