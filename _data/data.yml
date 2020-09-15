@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ji Hwan Moon
     tagline: Bioinformatician
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: mjh.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jhmoon.bioinfo@gmail.com
