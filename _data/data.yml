@@ -60,18 +60,14 @@ education:
       university: Seoul National University
       time: 2019
       details: |
-        Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
-        Advisor: Prof. Sun Kim
-          - Bullet point
-          - Bullet point
+        - Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
+        - Advisor: Prof. Sun Kim
     - degree: ME in Information Engineering
       university: Inha University
       time: 2011
       details: |
-        Thesis Title: A Hybrid Enzyme Function Prediction System Using Sequence Similarity and Feature-based Classification
-        Advisor: Prof. Yoo-Sung Kim
-          - Bullet point
-          - Bullet point
+        - Thesis Title: A Hybrid Enzyme Function Prediction System Using Sequence Similarity and Feature-based Classification
+        - Advisor: Prof. Yoo-Sung Kim
     - degree: BE in Information and Communication Engineering
       university: Inha University
       time: 2009
