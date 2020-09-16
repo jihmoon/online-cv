@@ -122,13 +122,13 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
     papers:
       - title: Mesenchymal stem cell-derived exosomes suppress proliferation of T cells by inducing cell cycle arrest through p27kip1/Cdk2 signaling
-        link: "https://www.sciencedirect.com/science/article/abs/pii/S016524782030331X"
+        link: https://www.sciencedirect.com/science/article/abs/pii/S016524782030331X
         authors: Sunho Lee, Sueon Kim, Hyunwoo Chung, Ji Hwan Moon, Seong Jun Kang, Chung-Gyu Park
         conference: "Immunology letters 225, 16-22, 2020"
 
