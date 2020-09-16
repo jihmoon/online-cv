@@ -60,17 +60,18 @@ education:
       university: Seoul National University
       time: 2019
       details: |
-        Test line1
-      
-        Test line2
         - Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
         - Advisor: Prof. Sun Kim
+        - Course Concentration: bioinformatics, machine learning, Network systems biology
+        - Research Focus: transcriptome data analysis, network analysis, machine learning 
     - degree: ME in Information Engineering
       university: Inha University
       time: 2011
       details: |
         - Thesis Title: A Hybrid Enzyme Function Prediction System Using Sequence Similarity and Feature-based Classification
         - Advisor: Prof. Yoo-Sung Kim
+        - Course Concentration: bioinformatics, data mining and database system
+        - Research Focus: protein function prediction, amino acid sequence analysis
     - degree: BE in Information and Communication Engineering
       university: Inha University
       time: 2009
@@ -81,29 +82,8 @@ experiences:
       company: Department of Biological Sciences, the State University of New York at Buffalo
       details: |
           - PI: Soo-Kyung Lee and Jae Lee
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Research Focus: enhancer interaction network analysis, TF/histone ChIP-seq data analysis
+    
 projects:
     title: Projects
     intro: >
@@ -111,25 +91,30 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Differentially Expressed Gene Identification Method
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A machine learning-based differentially expressed genes identification method using network information and network propagation."
 
-      - title: DevStudio
+      - title: Tendinopathy
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A research to find tendon regeneration factors in rotator cuff with Prof. Chris Jo at SNU Boramae Medical Center"
 
-      - title: Tempo
+      - title: Pathway Interaction Network Construction Method
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A condition-specific pathway interaction network construction method by computing shortest paths on a weighted protein-protein interaction network"
 
-      - title: Atom
+      - title: Xenotransplantation
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A research to elucidate the cause of chronic islet graft loss with Prof. Chung Gyu Park at Seoul National University Hospital"
 
-      - title: Delta
+      - title: Enzyme Reaction Rate
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A research to find the factors affecting enzyme reaction rate by enzyme motif analysis"
+
+      - title: Enzyme Function Prediction System
+        link: "#"
+        tagline: "Sequence similarity-based enzyme function prediction system using K-NN classification"
+
 
 publications:
     title: Publications
