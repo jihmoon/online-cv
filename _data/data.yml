@@ -58,7 +58,7 @@ career-profile:
 education:
     - degree: PhD in Bioinformatics
       university: Seoul National University
-      time: 2019
+      time: August 2019
       details: |
         - Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
         - Advisor: Prof. Sun Kim
@@ -66,7 +66,7 @@ education:
         - Research Focus: transcriptome data analysis, network analysis, machine learning 
     - degree: ME in Information Engineering
       university: Inha University
-      time: 2011
+      time: February 2011
       details: |
         - Thesis Title: A Hybrid Enzyme Function Prediction System Using Sequence Similarity and Feature-based Classification
         - Advisor: Prof. Yoo-Sung Kim
@@ -74,7 +74,7 @@ education:
         - Research Focus: protein function prediction, amino acid sequence analysis
     - degree: BE in Information and Communication Engineering
       university: Inha University
-      time: 2009
+      time: February 2009
      
 experiences:
     - role: Postdoctoral Fellow
@@ -83,6 +83,10 @@ experiences:
       details: |
           - PI: Soo-Kyung Lee and Jae Lee
           - Research Focus: enhancer interaction network analysis, TF/histone ChIP-seq data analysis
+          
+    - role: Guest Lecturer
+      time: Spring semester 2014
+      company: Konkuk University
     
 projects:
     title: Projects
@@ -123,10 +127,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Mesenchymal stem cell-derived exosomes suppress proliferation of T cells by inducing cell cycle arrest through p27kip1/Cdk2 signaling
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S016524782030331X"
+        authors: Sunho Lee, Sueon Kim, Hyunwoo Chung, Ji Hwan Moon, Seong Jun Kang, Chung-Gyu Park
+        conference: "Immunology letters, 2020"
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
