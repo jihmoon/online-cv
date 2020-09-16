@@ -49,12 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a postdoctoral research fellow, department of biological sciences at University at Buffalo. I received my Ph.D. degree in Bioinformatics from Seoul National University in 2019 under the supervision of Prof. Sun Kim. My research focus is to identify putative enhancers relavent to FOXG1 and their interactions using machine learning methods and algorithms.
 education:
     - degree: PhD in Bioinformatics
       university: Seoul National University
