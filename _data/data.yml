@@ -62,7 +62,7 @@ education:
       details: |
         - Thesis Title: Informatics techniques to navigate transcriptome space with biological networks from gene to pathway to phenotypes
         - Advisor: Prof. Sun Kim
-        - Course Concentration: bioinformatics, machine learning, Network systems biology
+        - Course Concentration: bioinformatics, machine learning, network and systems biology
         - Research Focus: transcriptome data analysis, network analysis, machine learning 
     - degree: ME in Information Engineering
       university: Inha University
@@ -130,17 +130,57 @@ publications:
       - title: Mesenchymal stem cell-derived exosomes suppress proliferation of T cells by inducing cell cycle arrest through p27kip1/Cdk2 signaling
         link: "https://www.sciencedirect.com/science/article/abs/pii/S016524782030331X"
         authors: Sunho Lee, Sueon Kim, Hyunwoo Chung, Ji Hwan Moon, Seong Jun Kang, Chung-Gyu Park
-        conference: "Immunology letters, 2020"
+        conference: "Immunology letters 225, 16-22, 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Impact of mutations in DNA methylation modification genes on genome-wide methylation landscapes and downstream gene activations in pan-cancer
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Chai-Jin Lee, Hongryul Ahn, Dabin Jeong, Minwoo Pak, Ji Hwan Moon, Sun Kim
+        conference: "BMC Medical Genomics 13 (3), 1-14, 2020"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Bioinformatic analysis of peripheral blood RNA-sequencing sensitively detects the cause of late graft loss following overt hyperglycemia in pig-to-nonhuman primate islet xenotransplantation
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Hyun-Je Kim*, Ji Hwan Moon*, Hyunwoo Chung*, Jun-Seop Shin, Bongi Kim, Jong-Min Kim, Jung-Sik Kim, Il-Hee Yoon, Byoung-Hoon Min, Seong-Jun Kang, Yong-Hee Kim, Kyuri Jo, Joungmin Choi, Heejoon Chae, Won-Woo Lee, Sun Kim & Chung-Gyu Park (*equal contribution)
+        conference: "Scientific Reports 9 (1), 1-11, 2019"
+        
+      - title: Venn-diaNet: venn diagram based network propagation analysis framework for comparing multiple biological experiments
+        link: "#"
+        authors: Benjamin Hur, Dongwon Kang, Sangseon Lee, Ji Hwan Moon, Gung Lee, Sun Kim
+        conference: "BMC bioinformatics 20 (23), 1-12, 2019"
+
+      - title: Literature-based condition-specific miRNA-mRNA target prediction
+        link: "#"
+        authors: Minsik Oh, Sungmin Rhee, Ji Hwan Moon, Heejoon Chae, Sunwon Lee, Jaewoo Kang, Sun Kim
+        conference: "PLoS One 12 (3), e0174999, 2017"
+
+      - title: PINTnet: construction of condition-specific pathway interaction network by computing shortest paths on weighted PPI
+        link: "#"
+        authors: Ji Hwan Moon, Sangsoo Lim, Kyuri Jo, Sangseon Lee, Seokjun Seo, Sun Kim
+        conference: "BMC systems biology 11 (2), 15, 2017"
+
+      - title: Flow maximization analysis of cell cycle pathway activation status in breast cancer subtypes
+        link: "#"
+        authors: Sangseon Lee, Ji Hwan Moon, Youngjune Park, Sun Kim
+        conference: "2017 IEEE International Conference on Big Data and Smart Computing, 91-95, 2017"
+
+      - title: Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways
+        link: "#"
+        authors: Kyuri Jo, Inuk Jung, Ji Hwan Moon, Sun Kim
+        conference: "Bioinformatics 32 (12), i128-i136, 2016"
+        
+      - title: A new bioinformatics analysis can reveal intestinal infection as a cause of graft rejection in islet xenotransplantation in non-human primate.(TRAN1P. 940)
+        link: "#"
+        authors: Hyun-Je Kim, Ji-Hwan Moon, Jun-Seop Shin, Bongi Kim, Jung-Sik Kim, Byong-hoon Min, Kyo-ri Cho, Sung-Jun Kang, Nari Byun, Thuy Phuong, Jong-Min Kim, Sun Kim, Chung-Gyu Park
+        conference: "The Journal of Immunology 194 (1 Supplement), 140.22-140.22, 2015"
+
+      - title: A hybrid online signature verification system supporting multi-confidential levels defined by data mining techniques
+        link: "#"
+        authors: Ji Hwan Moon, Sung Gyu Lee, Sung Young Cho, Yoo-Sung Kim
+        conference: "International Journal of Intelligent Systems Technologies and Applications 9, 2010"
+
+      - title: Genome-wide enzyme function prediction system using K-NN classification on sequence similarity
+        link: "#"
+        authors: Joo-sung Kim, Ji Hwan Moon, Yoo-Sung Kim, Sun Kim
+        conference: "International Conference on Emerging Databases, 182-187, 2009"
 
 skills:
     title: Skills &amp; Proficiency
