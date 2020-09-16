@@ -133,47 +133,47 @@ publications:
         conference: "Immunology letters 225, 16-22, 2020"
 
       - title: Impact of mutations in DNA methylation modification genes on genome-wide methylation landscapes and downstream gene activations in pan-cancer
-        link: "#"
+        link: https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-0659-4
         authors: Chai-Jin Lee, Hongryul Ahn, Dabin Jeong, Minwoo Pak, Ji Hwan Moon, Sun Kim
         conference: "BMC Medical Genomics 13 (3), 1-14, 2020"
 
       - title: Bioinformatic analysis of peripheral blood RNA-sequencing sensitively detects the cause of late graft loss following overt hyperglycemia in pig-to-nonhuman primate islet xenotransplantation
-        link: "#"
+        link: https://www.nature.com/articles/s41598-019-55417-y
         authors: Hyun-Je Kim*, Ji Hwan Moon*, Hyunwoo Chung*, Jun-Seop Shin, Bongi Kim, Jong-Min Kim, Jung-Sik Kim, Il-Hee Yoon, Byoung-Hoon Min, Seong-Jun Kang, Yong-Hee Kim, Kyuri Jo, Joungmin Choi, Heejoon Chae, Won-Woo Lee, Sun Kim & Chung-Gyu Park (*equal contribution)
         conference: "Scientific Reports 9 (1), 1-11, 2019"
         
       - title: "Venn-diaNet: venn diagram based network propagation analysis framework for comparing multiple biological experiments"
-        link: "#"
+        link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3302-7
         authors: Benjamin Hur, Dongwon Kang, Sangseon Lee, Ji Hwan Moon, Gung Lee, Sun Kim
         conference: "BMC bioinformatics 20 (23), 1-12, 2019"
 
       - title: Literature-based condition-specific miRNA-mRNA target prediction
-        link: "#"
+        link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174999
         authors: Minsik Oh, Sungmin Rhee, Ji Hwan Moon, Heejoon Chae, Sunwon Lee, Jaewoo Kang, Sun Kim
         conference: "PLoS One 12 (3), e0174999, 2017"
 
       - title: "PINTnet: construction of condition-specific pathway interaction network by computing shortest paths on weighted PPI"
-        link: "#"
+        link: https://link.springer.com/article/10.1186/s12918-017-0387-3
         authors: Ji Hwan Moon, Sangsoo Lim, Kyuri Jo, Sangseon Lee, Seokjun Seo, Sun Kim
         conference: "BMC systems biology 11 (2), 15, 2017"
 
       - title: Flow maximization analysis of cell cycle pathway activation status in breast cancer subtypes
-        link: "#"
+        link: https://ieeexplore.ieee.org/abstract/document/7881721
         authors: Sangseon Lee, Ji Hwan Moon, Youngjune Park, Sun Kim
         conference: "2017 IEEE International Conference on Big Data and Smart Computing, 91-95, 2017"
 
       - title: Influence maximization in time bounded network identifies transcription factors regulating perturbed pathways
-        link: "#"
+        link: https://academic.oup.com/bioinformatics/article/32/12/i128/2288870
         authors: Kyuri Jo, Inuk Jung, Ji Hwan Moon, Sun Kim
         conference: "Bioinformatics 32 (12), i128-i136, 2016"
         
       - title: A new bioinformatics analysis can reveal intestinal infection as a cause of graft rejection in islet xenotransplantation in non-human primate.(TRAN1P. 940)
-        link: "#"
+        link: https://www.jimmunol.org/content/194/1_Supplement/140.22.short
         authors: Hyun-Je Kim, Ji-Hwan Moon, Jun-Seop Shin, Bongi Kim, Jung-Sik Kim, Byong-hoon Min, Kyo-ri Cho, Sung-Jun Kang, Nari Byun, Thuy Phuong, Jong-Min Kim, Sun Kim, Chung-Gyu Park
         conference: "The Journal of Immunology 194 (1 Supplement), 140.22-140.22, 2015"
 
       - title: A hybrid online signature verification system supporting multi-confidential levels defined by data mining techniques
-        link: "#"
+        link: https://www.inderscienceonline.com/doi/abs/10.1504/IJISTA.2010.036581
         authors: Ji Hwan Moon, Sung Gyu Lee, Sung Young Cho, Yoo-Sung Kim
         conference: "International Journal of Intelligent Systems Technologies and Applications 9, 2010"
 
@@ -186,23 +186,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Perl & Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: C++
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
