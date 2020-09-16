@@ -142,7 +142,7 @@ publications:
         authors: Hyun-Je Kim*, Ji Hwan Moon*, Hyunwoo Chung*, Jun-Seop Shin, Bongi Kim, Jong-Min Kim, Jung-Sik Kim, Il-Hee Yoon, Byoung-Hoon Min, Seong-Jun Kang, Yong-Hee Kim, Kyuri Jo, Joungmin Choi, Heejoon Chae, Won-Woo Lee, Sun Kim & Chung-Gyu Park (*equal contribution)
         conference: "Scientific Reports 9 (1), 1-11, 2019"
         
-      - title: Venn-diaNet: venn diagram based network propagation analysis framework for comparing multiple biological experiments
+      - title: Venn-diaNet":" venn diagram based network propagation analysis framework for comparing multiple biological experiments
         link: "#"
         authors: Benjamin Hur, Dongwon Kang, Sangseon Lee, Ji Hwan Moon, Gung Lee, Sun Kim
         conference: "BMC bioinformatics 20 (23), 1-12, 2019"
@@ -152,7 +152,7 @@ publications:
         authors: Minsik Oh, Sungmin Rhee, Ji Hwan Moon, Heejoon Chae, Sunwon Lee, Jaewoo Kang, Sun Kim
         conference: "PLoS One 12 (3), e0174999, 2017"
 
-      - title: PINTnet: construction of condition-specific pathway interaction network by computing shortest paths on weighted PPI
+      - title: PINTnet":" construction of condition-specific pathway interaction network by computing shortest paths on weighted PPI
         link: "#"
         authors: Ji Hwan Moon, Sangsoo Lim, Kyuri Jo, Sangseon Lee, Seokjun Seo, Sun Kim
         conference: "BMC systems biology 11 (2), 15, 2017"
