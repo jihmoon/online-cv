@@ -148,7 +148,7 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
-      - title: MLDEG: A Machine Learning Approach to Identify Differentially Expressed Genes Using Network Property and Network Propagation
+      - title: "MLDEG: A Machine Learning Approach to Identify Differentially Expressed Genes Using Network Property and Network Propagation"
         link: 
         authors: Ji Hwan Moon, Sangseon Lee, Minwoo Pak, Benjamin Hur, and Sun Kim
         conference: "Under Revision"
