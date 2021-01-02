@@ -148,6 +148,11 @@ publications:
 #      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #      bibendum fringilla a eu lectus.
     papers:
+      - title: MLDEG: A Machine Learning Approach to Identify Differentially Expressed Genes Using Network Property and Network Propagation
+        link: 
+        authors: Ji Hwan Moon, Sangseon Lee, Minwoo Pak, Benjamin Hur, and Sun Kim
+        conference: "Under Revision"
+
       - title: PRC2 Acts as a Critical Timer That Drives Oligodendrocyte Fate over Astrocyte Identity by Repressing the Notch Pathway
         link: https://www.sciencedirect.com/science/article/pii/S2211124720311360
         authors: Wenxian Wang, Hyeyoung Cho, Dongkyeong Kim, Younjung Park, Ji Hwan Moon, Su Jeong Lim, Sung Min Yoon, Michael McCane, Sue A Aicher, Sangsoo Kim, Ben Emery, Jae W Lee, Seunghee Lee, Yungki Park, Soo-Kyung Lee
