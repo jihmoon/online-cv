@@ -116,6 +116,10 @@ projects:
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: Foxg1-Regulatory Interactions
+        link: "#hook"
+        tagline: "Researches to find enhancers and their interactions regulating Foxg1 expression and the downstream regulations of Foxg1"
+        
       - title: Differentially Expressed Gene Identification Method
         link: "#hook"
         tagline: "A machine learning-based differentially expressed genes identification method using network information and network propagation."
@@ -152,6 +156,11 @@ publications:
         link: 
         authors: Ji Hwan Moon, Sangseon Lee, Minwoo Pak, Benjamin Hur, and Sun Kim
         conference: "Under Revision"
+        
+      - title: "Network Propagation for the Analysis of Multi-omics Data"
+        link:
+        authors: Minwoo Pak, Dabin Jeong, Ji Hwan Moon, Hongryul Ann, Benjamin Hur, Sangseon Lee, Sun Kim
+        conference: "Recent Advances in Biological Network Analysis, 185-217, 2021"
 
       - title: PRC2 Acts as a Critical Timer That Drives Oligodendrocyte Fate over Astrocyte Identity by Repressing the Notch Pathway
         link: https://www.sciencedirect.com/science/article/pii/S2211124720311360
